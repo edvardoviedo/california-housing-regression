@@ -13,4 +13,6 @@ Se usa el **California Housing Dataset**, disponible directamente en `scikit-lea
 - Evalúa el modelo mostrando el Error Cuadrático Medio (MSE) y el R².
 - Genera un gráfico de precios reales vs. predichos.
 
+![image](https://github.com/user-attachments/assets/9a76465b-8ac0-4649-a7a5-676f788c7e05)
+
 
